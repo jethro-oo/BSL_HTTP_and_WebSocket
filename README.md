@@ -39,9 +39,9 @@ Open your web browser, such as Google Chrome.
 
 Enter this address in the address bar:
 
-http://localhost:8000/
+`http://localhost:8000/`
 
-## 3. Execution Verification (Screenshots Required)
+## 3. Execution Verification 
 
 The following screenshots show the results of running the project.
 
@@ -49,10 +49,10 @@ The following screenshots show the results of running the project.
 
 This screenshot shows the terminal after running the `bzg run` command. It should show that the web server started successfully without errors.
 
-![Terminal screenshot showing successful execution of bzg run](screenshots/terminal-bzg-run.png)
+![Terminal screenshot showing successful execution of bzg run](public/screenshots/terminal.png)
 
 ### B. Browser Screenshot
 
-This screenshot shows my personal portfolio landing page running in the web browser at `http://localhost:8000`.
+This screenshot shows my personal portfolio landing page running in the web browser at http://localhost:8000
 
-![Browser screenshot showing my personal portfolio landing page](screenshots/portfolio-browser.png)
+![Browser screenshot showing my personal portfolio landing page](public/screenshots/portfolio.png)
