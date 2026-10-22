@@ -39,7 +39,7 @@ Open your web browser, such as Google Chrome.
 
 Enter this address in the address bar:
 
-`http://localhost:8000/`
+http://localhost:8000/
 
 ## 3. Execution Verification (Screenshots Required)
 
